@@ -1,4 +1,4 @@
-# 🌌 Quantum Sound Visualizer (量子音波)
+<img width="2547" height="1294" alt="屏幕截图 2026-04-09 223634" src="https://github.com/user-attachments/assets/bfc87356-87dd-4cb5-aac2-17812fa8365a" /># 🌌 Quantum Sound Visualizer (量子音波)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Three.js](https://img.shields.io/badge/Three.js-r128-black.svg)
@@ -7,7 +7,7 @@
 
 > **“不要温和地走进那个良夜。”** > Quantum Sound Visualizer 是一个基于 WebGL (Three.js) 和 Web Audio API 构建的电影级宇宙天体音乐可视化引擎。它不仅仅是让粒子随音量跳动，而是将音频频段实时转化为**引力、角速度与热辐射**，在浏览器中重现《星际穿越》级别的宇宙奇观。
 
-![Preview](https://via.placeholder.com/800x450/020204/FFFFFF?text=Insert+Your+Epic+Blackhole+GIF+Here) ## ✨ 核心视觉：三重宇宙状态机 (Tri-State Cosmic Engine)
+![Preview] ## ✨ 核心视觉：三重宇宙状态机 (Tri-State Cosmic Engine)
 
 本项目摒弃了传统的随机噪波，采用天体物理学近似算法，构建了三种完美过渡的宇宙形态：
 
